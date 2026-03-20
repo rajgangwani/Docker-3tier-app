@@ -1,0 +1,12 @@
+{
+  "name": "backend-api",
+  "version": "1.0.0",
+  "description": "3-tier app backend for FiftyFive Technologies DevOps assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.5"
+  }
+}
