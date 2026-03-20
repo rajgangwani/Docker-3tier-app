@@ -53,7 +53,7 @@ Services talk to each other by name — no hardcoded IPs anywhere.
 ### Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rajgangwani/Docker-3tier-app.git
 cd docker-3tier-assignment
 
 cp .env.example .env
